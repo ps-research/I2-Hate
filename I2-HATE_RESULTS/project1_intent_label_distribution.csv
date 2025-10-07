@@ -1,0 +1,8 @@
+Label,Train,Val,Test,Total
+Affective Aggression,251,90,100,441
+Derisive Trolling,229,75,79,383
+Dominance & Subjugation,316,107,97,520
+Ideological Expression,422,145,150,717
+Performative Reinforcement,258,80,86,424
+Strategic Incitement,455,154,144,753
+Threat & Intimidation,278,84,83,445
