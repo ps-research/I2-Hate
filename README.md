@@ -1,3 +1,3 @@
 # I2-Hate
 
-**Project paper submitted to ACL ARR October 2025 Cycle**
+**Paper accepted at EACL 2026 - Main proceedings [https://aclanthology.org/2026.eacl-short.8.pdf]**
